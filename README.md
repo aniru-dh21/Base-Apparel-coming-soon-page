@@ -2,6 +2,8 @@
 
 ![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
 
+Live Demo: [Base-Apparel-Coming-Soon-Page](https://aniru-dh21.github.io/Base-Apparel-coming-soon-page/).
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
